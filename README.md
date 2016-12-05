@@ -11,7 +11,7 @@ $> gradle build
 
 Default port server : 4242
 
-$> ava -jar jcoinche_server/build/libs/jcoinche_server.jar
+$> java -jar jcoinche_server/build/libs/jcoinche_server.jar
 
 ## Console Client
 
